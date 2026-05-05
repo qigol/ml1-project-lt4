@@ -125,7 +125,7 @@ class Tuner():
         plt.errorbar(hyperparameter, tests.mean(axis=1),
                      yerr=tests.std(axis=1), label=f"test {metric_name}", color='red', marker='^', linestyle='-', markersize=15)
         plt.ylabel(f"{metric_name}", fontsize=15)
-        plt.xlabel(hparam_name,fontsize=15)
+        plt.xlabel(str(hparam_name),fontsize=15)
         plt.legend()
         pass
         
