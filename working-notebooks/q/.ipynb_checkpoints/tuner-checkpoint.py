@@ -25,8 +25,8 @@ class Tuner():
                                              'classifier',
                                              'hyperparameter',
                                              'best_hyperparameter_setting',
-                                             'test_score',
-                                             'train_score'])
+                                             'train_score',
+                                             'test_score'])
         self.trains = {}
         self.tests = {}
         self.hyperparams = {}

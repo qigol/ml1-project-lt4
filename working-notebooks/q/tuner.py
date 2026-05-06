@@ -25,8 +25,8 @@ class Tuner():
                                              'classifier',
                                              'hyperparameter',
                                              'best_hyperparameter_setting',
-                                             'test_score',
-                                             'train_score'])
+                                             'train_score',
+                                             'test_score'])
         self.trains = {}
         self.tests = {}
         self.hyperparams = {}
@@ -55,9 +55,7 @@ class Tuner():
             tuner.tune(KNeighborsClassifier, 10, 0.25, 'n_neighbors', range(1,11));
     
             C_settings = [1e-4, 1e-3,0.1, 0.2,0.4, 0.75, 1, 1.5, 3, 5, 10, 15,  20, 100, 300, 1000, 5000]
-            
             svc_settings = {'penalty':"l1", 'loss':'squared_hinge', 'dual':False}
-            
             test_tuner.tune(LinearSVC, 10, 0.25, 'C', C_settings, svc_settings);
         """
         trains = pd.DataFrame()
