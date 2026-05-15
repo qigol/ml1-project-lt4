@@ -1,0 +1,33 @@
+Cluster 6 | 4491 games | Fantasy (High Fantasy), Fantasy, Science Fiction | Scenario / Adventure / Module, Sourcebook (rules/options to enhance play), Core Rules (min needed to play) |
+Cluster 0 | 2513 games | Wargame, Card Game, Fantasy | Dice Rolling, Simulation, Roll / Spin and Move |
+Cluster 5 | 629 games | Card Game, Children's Game, Movies / TV / Radio theme | Hand Management, Set Collection, Card Drafting |
+Cluster 16 | 262 games | Adventure, Exploration, Fantasy | Action Points, Dice Rolling, Modular Board |
+Cluster 30 | 238 games | Adventure, Deduction, Dice | Cooperative Game, Dice Rolling, Grid Movement |
+Cluster 19 | 168 games | Economic, Negotiation | Auction/Bidding, Dice Rolling, Player Elimination |
+Cluster 31 | 167 games | Action / Dexterity, Collectible Components, Fantasy | Variable Player Powers |
+Cluster 23 | 165 games | Action / Dexterity | Rock-Paper-Scissors |
+Cluster 21 | 96 games | Real-time, Science Fiction | Auction/Bidding, Hand Management, Simultaneous Action Selection |
+Cluster 17 | 91 games | Territory Building, Wargame | Area Majority / Influence, Area Movement, Area-Impulse |
+Cluster 27 | 86 games | Horror, Movies / TV / Radio theme | Area Movement, Cooperative Game, Dice Rolling |
+Cluster 7 | 78 games | Animals, Environmental, Prehistoric | Roll / Spin and Move |
+Cluster 20 | 76 games | Card Game, Deduction | Dice Rolling, Roll / Spin and Move |
+Cluster 25 | 73 games | Economic | Income, Ownership |
+Cluster 2 | 64 games | Fantasy (Science Fantasy), Generic / Universal | Core Rules (min needed to play), Scenario / Adventure / Module, Accessory (dice |
+Cluster 4 | 63 games | History (American West), Fantasy, Fantasy (High Fantasy) | Scenario / Adventure / Module, Sourcebook (rules/options to enhance play), Core Rules (min needed to play) |
+Cluster 1 | 61 games | Modern (Near Future), Science Fiction (Post Apocalypse), Action / Adventure (Superheroes) | Core Rules (min needed to play), Sourcebook (rules/options to enhance play) |
+Cluster 3 | 61 games | Science Fiction | Campaign Setting (game world) |
+Cluster 12 | 56 games | Fantasy, Science Fiction | Scenario / Adventure / Module |
+Cluster 29 | 52 games | Fantasy (High Fantasy), Horror, Religion | Scenario / Adventure / Module, Core Rules (min needed to play) |
+Cluster 15 | 47 games | Generic / Universal | Non-Game Book (but RPG Related) |
+Cluster 8 | 46 games | Fantasy, Horror (Cthulhu Mythos), Occult (Magic) | Core Rules (min needed to play) |
+Cluster 9 | 43 games | Fantasy, History (Ancient), Mythology / Folklore | Scenario / Adventure / Module |
+Cluster 18 | 43 games | Fantasy (Modern Urban Fantasy), Horror (Supernatural), Modern | Accessory (dice, maps, screens |
+Cluster 24 | 40 games | Adult / Mature, Fantasy, Weird / Surreal | Scenario / Adventure / Module |
+Cluster 10 | 39 games | Action / Adventure | Scenario / Adventure / Module |
+Cluster 13 | 39 games | Science Fiction (Cyberpunk), Steampunk | Quick Start / Fast Play Rules |
+Cluster 11 | 38 games | Horror, Science Fiction (Post Apocalypse) | Core Rules (min needed to play) |
+Cluster 22 | 38 games | Comedy / Satire, Fantasy (High Fantasy) | Core Rules (min needed to play) |
+Cluster 28 | 37 games | Science Fiction | Campaign Setting (game world) |
+Cluster 26 | 35 games | Action / Adventure, Animal, Kid-Friendly | Core Rules (min needed to play) |
+Cluster 14 | 33 games | Comedy / Satire | Scenario / Adventure / Module |
+Cluster 32 | 32 games | Fantasy, Kid-Friendly, Modern (Urban) | Core Rules (min needed to play) |
